@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋, I'm Ananya Kamboj</h1>
-<h3 align="center"> A passionate AI/ML Engineer and Software Developer from Kamploops, BC, Canada</h3>
+<h3 align="center"> A passionate AI/ML Engineer and Software Developer from Kamloops, BC, Canada</h3>
 <p align="center">
 <img align="center" alt="coding" width="400" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ananyakamboj&label=Profile%20views&color=0e75b6&style=flat" alt="kambojananya" /> </p>
 
-I'm **Ananya Kamboj**, a Software Engineering student at the Thompson River University, Maploops, Canada. I am passionate about technology and innovation, with a keen interest in software development, artificial intelligence, and cybersecurity.
+I'm **Ananya Kamboj**, a Software Engineering student at the Thompson River University, Kamloops, Canada. I am passionate about technology and innovation, with a keen interest in software development, artificial intelligence, and cybersecurity.
 
 ### About Me
 - 🔭 I’m currently working on various projects that showcase my skills in **AI, ML, data science and web development**.
@@ -76,10 +76,10 @@ I'm **Ananya Kamboj**, a Software Engineering student at the Thompson River Univ
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kambojananya&show_icons=true&locale=en&layout=compact" alt="kambojananya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kambojananya&show_icons=true&locale=en&layout=compact" alt="Ananya Kamboj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kambojananya&show_icons=true&locale=en" alt="kambojananya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kambojananya&show_icons=true&locale=en" alt="Ananya Kamboj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojananya&" alt="kambojananya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kambojananya&" alt="Ananya Kamboj" /></p>
 
 
